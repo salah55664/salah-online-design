@@ -159,6 +159,7 @@ h4{
     html{
         font-size: 13px; 
         padding: 1.5rem;
+        background-image: linear-gradient(to top, #490cd6 0%, #d2134c 100%);
     }
     nav ul{
         display: none;
