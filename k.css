@@ -196,5 +196,16 @@ h4{
     #menu{
         display: block;
     }
+    .skill{
+    
+        color:white ;
+        
+        font-weight:bold ;
+        padding: 0.83rem 1.87rem;
+        border-radius: 30px;
+        transition: 0.4s; 
+        padding-top: 5cm;
+        padding-right: 8%;    
+    }
     
 }
